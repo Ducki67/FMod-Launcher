@@ -203,7 +203,7 @@ function fetchText(url) {
 
 const DOWNLOAD_URLS = {
   eacZip: 'https://cdn2.fmod.dev/launcher/eac.zip',
-  redirectDll: 'https://cdn.fmod.dev/Redir.dll'
+  redirectDll: 'your-own-reidrect-url-here' // Removed the Ratted one  ALSO stay safe!!!
 };
 
 function downloadFile(url, dest) {
