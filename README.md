@@ -14,4 +14,20 @@ The Screenshot is from Project Interlude (Burlone's co-owned project with Anding
 
 
 ## How to build / use
-as soon as I figure it out with my friends...
+
+- Install [**node.js**](https://nodejs.org/en)
+- Install **node_modules** packages with:
+```js
+npm i
+// OR
+npm install
+```
+- Build the exe with:
+```js
+npm run build
+```
+and the setup exe file should be in this output: **`FMod-Launcher-main\dist\build`** </br>
+
+- Make a Login api for the backend + to the launcher in `FMod-Launcher-main\src\main\main.js` </br>
+**OR** </br>
+DM my friend `@kumailala` (ID:913777634079539240) on discord to make an Api code for you for Both Backend and Laucnher **(PAID)**
